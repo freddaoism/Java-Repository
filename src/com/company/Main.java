@@ -11,7 +11,7 @@ public class Main {
         int sum = 0;
 
         //iterate using a for loop
-        for(int i; i <= 1000; i++) {
+        for(int i = 1; i <= 1000; i++) {
             //set constraints within if statement
             if((i % 3 ==0) && (i % 5 == 0)) {
                 //set count to increment by one if constraints are met
