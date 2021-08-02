@@ -1,4 +1,3 @@
-
 package com.tts.TTSTwitterAVD.repository;
 
 import com.tts.TTSTwitterAVD.model.Tweet;
