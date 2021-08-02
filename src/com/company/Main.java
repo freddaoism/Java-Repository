@@ -19,7 +19,7 @@ public class Main {
                 //add i to sum variable
                 sum += i;
                 //print the number to the console
-                System.out.println("found number = " + i);
+                System.out.println("Found number = " + i);
             }
             //stop the process if the count equals five
             if(count == 5) {

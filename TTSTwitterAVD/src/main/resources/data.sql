@@ -1,0 +1,1 @@
+MERGE INTO `role` VALUE (1,'USER')
